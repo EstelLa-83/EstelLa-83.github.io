@@ -24,7 +24,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: 
-    github:https://github.com/EstelLa-83
+    github: https://github.com/EstelLa-83
     linkedIn: 
     rss: rss
     # dribbble: jekyll
